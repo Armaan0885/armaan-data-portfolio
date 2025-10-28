@@ -19,7 +19,7 @@ Originally designed to use live market data via `yfinance`,
 this version uses **sample data** to ensure it works fully offline.
 
 **Preview:**  
-![Stock Chart](assets/stock_chart.png)
+![Stock Chart](assets/stock_trend_chart.png)
 
 ---
 
